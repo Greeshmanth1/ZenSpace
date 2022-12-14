@@ -20,6 +20,6 @@
 &emsp; PHP 
 
 ## Database Details
-Host: sql6.freesqldatabase.com \n
+Host: sql6.freesqldatabase.com <br>
 Database name: sql6584364
 Tables - users, details, admin
