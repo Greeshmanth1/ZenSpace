@@ -18,3 +18,8 @@
 &emsp; HTML, CSS, JS, Jquery
  ### Back End
 &emsp; PHP 
+
+## Database Details
+Host: sql6.freesqldatabase.com
+Database name: sql6584364
+Tables - users, details, admin
