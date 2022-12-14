@@ -1,6 +1,7 @@
 # Flexmoney-Assignment
 ## Hosted Solution Url: "https://flexmoney-assignment.000webhostapp.com/"
-(Note - As i used session variables which may block the login page, So use different browser it isn't working)<br>
+(Note - Use different browser it isn't working, ss i used session variables which may block the login page )<br>
+<br>
 All the validations and sql queries are executed using REST API where all the backend logic is written in PHP. The simple validations are done using JS, Jquery. Styling is done using CSS by linking the external css. The basic structure and contents are written in HTML.
 ## Sample Credentials
 ###  User Credentials
