@@ -1,10 +1,11 @@
 # Flexmoney-Assignment
 ## Hosted Solution Url: "https://flexmoney-assignment.000webhostapp.com/"
 
-### Sample User Credentials
+## Sample Credentials
+###  User Credentials
 &emsp; Username: "Greeshmanth1", Password: "Abcd@1234"
   
-### Sample Admin Credentials
+###  Admin Credentials
 &emsp; Username: "Greeshmanth1", Password: "Abcd@1234" 
   
 ## Tech Stack Used
