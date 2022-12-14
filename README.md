@@ -25,3 +25,4 @@ Host: sql6.freesqldatabase.com <br>
 Database name: sql6584364 <br>
 Tables - users, details, admin <br>
 
+Database design is shown in this [ER Diagram](https://github.com/Greeshmanth1/yoga-flexmoney/blob/main/er%20diagram.png).
