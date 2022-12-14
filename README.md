@@ -18,13 +18,10 @@
 &emsp; HTML, CSS, JS, Jquery
  ### Back End
 &emsp; PHP 
+All the validations and sql queries are executed using REST API
 
 ## Database Details
 Host: sql6.freesqldatabase.com <br>
 Database name: sql6584364 <br>
 Tables - users, details, admin <br>
-#### 'users' table details
-| Attribute Name  | Data Type |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+
