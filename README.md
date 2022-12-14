@@ -8,9 +8,9 @@
 &emsp; Username: "Greeshmanth1", Password: "Abcd@1234" 
   
 ## Tech Stack Used
-&ensp; ### Front End 
+ ### Front End 
 &emsp; HTML, CSS, JS, Jquery
-&ensp; ### Back End
+ ### Back End
 &emsp; PHP 
  
 ## Work Flow of the Website
