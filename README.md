@@ -26,3 +26,8 @@ Database name: sql6584364 <br>
 Tables - users, details, admin <br>
 
 Database design is shown in this [ER Diagram](https://github.com/Greeshmanth1/yoga-flexmoney/blob/main/er%20diagram.png).
+
+<br>
+1. Admin Signup is need to be done.<br>
+2. Automatic Deletion of user who completed 30 days of his subscription is pending.<br>
+3. Alternative method for session variable is to be done ( usage of session variables may block the login page).<br>
