@@ -23,8 +23,8 @@
 Host: sql6.freesqldatabase.com <br>
 Database name: sql6584364 <br>
 Tables - users, details, admin <br>
-
-| First Header  | Second Header |
+#### 'users' table details
+| Attribute Name  | Data Type |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
