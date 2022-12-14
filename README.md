@@ -1,6 +1,6 @@
 # Flexmoney-Assignment
 ## Hosted Solution Url: "https://flexmoney-assignment.000webhostapp.com/"
-
+All the validations and sql queries are executed using REST API where all the backend logic is written in php pages. The simple validations are done using JS, Jquery. Styling is done using CSS by linking the external css. The basic structure and contents are written in HTML.
 ## Sample Credentials
 ###  User Credentials
 &emsp; Username: "Greeshmanth1", Password: "Abcd@1234"
@@ -17,8 +17,8 @@
  ### Front End 
 &emsp; HTML, CSS, JS, Jquery
  ### Back End
-&emsp; PHP 
-All the validations and sql queries are executed using REST API
+&emsp; PHP <br>
+
 
 ## Database Details
 Host: sql6.freesqldatabase.com <br>
