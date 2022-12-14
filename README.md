@@ -1,5 +1,6 @@
 # Flexmoney-Assignment
 ## Hosted Solution Url: "https://flexmoney-assignment.000webhostapp.com/"
+(Note - As i used session variables which may block the login page, So use different browser it isn't working)<br>
 All the validations and sql queries are executed using REST API where all the backend logic is written in PHP. The simple validations are done using JS, Jquery. Styling is done using CSS by linking the external css. The basic structure and contents are written in HTML.
 ## Sample Credentials
 ###  User Credentials
@@ -28,6 +29,7 @@ Tables - users, details, admin <br>
 Database design is shown in this [ER Diagram](https://github.com/Greeshmanth1/yoga-flexmoney/blob/main/er%20diagram.png).
 
 <br>
+These are some improvements can be made to solution if time permits
 1. Admin Signup is need to be done.<br>
 2. Automatic Deletion of user who completed 30 days of his subscription is pending.<br>
 3. Alternative method for session variable is to be done ( usage of session variables may block the login page).<br>
